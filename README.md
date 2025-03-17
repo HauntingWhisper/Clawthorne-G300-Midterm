@@ -1,2 +1,9 @@
 # Clawthorne-G300-Week8-Midterm
- 
+ This is very bare bones as my computer began to freak out when I tried to use it at my parents. With that I was unable to complete my prototype or get a video, I tried to add stuff but I don't konw if it stayed. This will lead to a fail for this midterm, but I hope this don't make it so I fail the class.
+ Here are things I implememted before I left that should work. I made a abandoned train station with someone that will ask you to find someone that they've lost, but there are creatures that roam the halls. You the player have swore off monster huntering after you left that life half a decade ago. Your goal is to not kill anything despite having the option to. If you kill anyone/anything you Sacrificed your moral code and began to fall back into the life you left. If you find the person and sneak around without killing you keep your code intact but risk the person you are trying to save getting killed by the creatures making all what you did useless. I attemped to use the train as sight lines along with a series of lights as a guide to the metal door. The lights continue to guide you through the dark hall way through the dark room and dark hallways again to find the person trapped. 
+ I have a little gold nugget that the more you collet the more your points go up, but you are in fact stealing, but its abandoned so... does it truly matter?
+ I have the enemy's runing on waypoints
+ The metal doors run on a timeline so you are able to get through, there are three throughout the level.
+ There is an NPC at the begining that will quest you with finding someone.
+ You as the player can shoot, but it advised against due to your moral code. There will be a health bar above the enemy's head.
+ I dont know if this would count as other but I also attempted to use the level blocking and level design stuff you showed us back in the second week of classes, breaking up the grid, where there are different hallways, not everything is boxy and has cut offs. 
